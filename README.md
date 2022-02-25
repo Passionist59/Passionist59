@@ -94,3 +94,7 @@
 ### 📧 Email: hiramjake59@gmail.com
 
 </div>
+
+<h3 align="left">GitHub Stats</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webstardev" alt="webstardev" /></a> </p>
