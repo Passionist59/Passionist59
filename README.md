@@ -76,17 +76,23 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
  
-### 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘧𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴
-𝘐𝘵 𝘪𝘴 𝘱𝘰𝘴𝘴𝘪𝘣𝘭𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯. 𝘊𝘰𝘮𝘱𝘢𝘵𝘪𝘣𝘭𝘦 𝘸𝘪𝘵𝘩 𝘦𝘢𝘤𝘩 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮.
-
-### Speedy 𝘞𝘦𝘣 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯
-𝘞𝘦 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘥𝘦𝘷𝘦𝘭𝘰𝘱 𝘏𝘗, 𝘓𝘗, 𝘢𝘯𝘥 𝘞𝘌𝘉 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴.
-
-### 𝘗𝘊 𝘢𝘯𝘥 𝘚𝘗 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴
-𝘐𝘵 𝘤𝘢𝘯 𝘣𝘦 𝘱𝘳𝘰𝘥𝘶𝘤𝘦𝘥 𝘪𝘯𝘦𝘹𝘱𝘦𝘯𝘴𝘪𝘷𝘦𝘭𝘺 𝘢𝘯𝘥 𝘲𝘶𝘪𝘤𝘬𝘭𝘺. 𝘞𝘦 𝘢𝘳𝘦 𝘢𝘭𝘴𝘰 𝘨𝘰𝘰𝘥 𝘢𝘵 𝘴𝘤𝘳𝘢𝘱𝘪𝘯𝘨 𝘸𝘩𝘦𝘯 𝘪𝘵 𝘤𝘰𝘮𝘦𝘴 𝘵𝘰 𝘗𝘊𝘴.
-
-### 𝘍𝘪𝘯𝘢𝘯𝘤𝘦 𝘪𝘴 𝘰𝘶𝘳 𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘵𝘺, 𝘞𝘦 𝘢𝘭𝘦𝘢𝘥𝘺 𝘨𝘰𝘵 𝘭𝘰𝘵𝘴 𝘰𝘧 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴
-𝘐𝘯 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘪𝘦𝘴, 𝘍𝘰𝘳𝘦𝘹 𝘢𝘯𝘥 𝘴𝘵𝘰𝘤𝘬𝘴, 𝘸𝘦 𝘤𝘢𝘯 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯𝘥 𝘢𝘯𝘢𝘭𝘺𝘻𝘦 𝘵𝘰𝘰𝘭𝘴 𝘢𝘵 𝘢 𝘩𝘪𝘨𝘩 𝘭𝘦𝘷𝘦𝘭.
+✓ Smart Contract, DeFi, in Ethereum, Solana, Avax, Wax, Algorand, Polygon,BSC, Polkadot
+✓ Smart Contract (ERC20 + ERC21) and Audit
+✓ Cryptocurrency Pricing Website
+✓ Sytems Administration (DevOps, Docker, Apache, Nginx, Heroku)
+✓ Creating an exchange Trading platforms with 3rd part liquidity API, Margin trading etc. like binance.com, bybit.com, or Bitmex.com 
+✓ ICO| STO| IEO- Developing from scratch + Marketing
+✓ Crypto Arbitrage
+✓ Forking coin
+✓ DApps development ; Solidity/Rust + web3.js/ethers.js
+✓ Solidity, Rust, Golang, C++, Java, Python
+✓ Integration with crypto wallets such as Metamask.
+✓ NFT marketplace, Defi/Dapp Development, DeFi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)
+✓ NFTs (ERC-721, ERC-1155, Flow, BSC, Polygon, Rarible, Opensea, Nifty, etc)
+✓ SQL and NoSQL (MySQL, MSSQL, PostgreSQL, InfluxDB, MongoDB), Redis
+✓ IOT solutions using blockchain such as in Farming
+✓ Peer to peer platform
+✓ Wallet development (HOT /COLD/ETHER/P2P/ ETH WALLET)
   
 ### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
 ### 🌃 My skype ID: live:.cid.fa825d42199a95b7
