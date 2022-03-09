@@ -76,23 +76,25 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
  
-✓ Smart Contract, DeFi, in Ethereum, Solana, Avax, Wax, Algorand, Polygon,BSC, Polkadot
-✓ Smart Contract (ERC20 + ERC21) and Audit
-✓ Cryptocurrency Pricing Website
-✓ Sytems Administration (DevOps, Docker, Apache, Nginx, Heroku)
-✓ Creating an exchange Trading platforms with 3rd part liquidity API, Margin trading etc. like binance.com, bybit.com, or Bitmex.com 
-✓ ICO| STO| IEO- Developing from scratch + Marketing
-✓ Crypto Arbitrage
-✓ Forking coin
-✓ DApps development ; Solidity/Rust + web3.js/ethers.js
-✓ Solidity, Rust, Golang, C++, Java, Python
-✓ Integration with crypto wallets such as Metamask.
-✓ NFT marketplace, Defi/Dapp Development, DeFi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)
-✓ NFTs (ERC-721, ERC-1155, Flow, BSC, Polygon, Rarible, Opensea, Nifty, etc)
-✓ SQL and NoSQL (MySQL, MSSQL, PostgreSQL, InfluxDB, MongoDB), Redis
-✓ IOT solutions using blockchain such as in Farming
-✓ Peer to peer platform
-✓ Wallet development (HOT /COLD/ETHER/P2P/ ETH WALLET)
+✓ Smart Contract, DeFi, in Ethereum, Solana, Avax, Wax, Algorand, Polygon,BSC, Polkadot<br>
+✓ Smart Contract (ERC20 + ERC21) and Audit<br>
+✓ Cryptocurrency Pricing Website<br>
+✓ Sytems Administration (DevOps, Docker, Apache, Nginx, Heroku)<br>
+✓ Creating an exchange Trading platforms with 3rd part liquidity API, Margin trading etc. like binance.com, bybit.com, or Bitmex.com <br>
+✓ ICO| STO| IEO- Developing from scratch + Marketing<br>
+✓ Crypto Arbitrage<br>
+✓ Forking coin<br>
+✓ DApps development ; Solidity/Rust + web3.js/ethers.js<br>
+✓ Solidity, Rust, Golang, C++, Java, Python<br>
+✓ Integration with crypto wallets such as Metamask.<br>
+✓ NFT marketplace, Defi/Dapp Development, DeFi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)<br>
+✓ NFT Games<br>
+✓ NFTs (ERC-721, ERC-1155, Flow, BSC, Polygon, Rarible, Opensea, Nifty, etc)<br>
+✓ SQL and NoSQL (MySQL, MSSQL, PostgreSQL, InfluxDB, MongoDB), Redis<br>
+✓ IOT solutions using blockchain such as in Farming<br>
+✓ Peer to peer platform<br>
+✓ Wallet development (HOT /COLD/ETHER/P2P/ ETH WALLET)<br>
+✓ Frontend development<br>
   
 ### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
 ### 🌃 My skype ID: live:.cid.fa825d42199a95b7
