@@ -96,10 +96,10 @@
 ✓ Wallet development (HOT /COLD/ETHER/P2P/ ETH WALLET)<br>
 ✓ Frontend development<br>
   
-### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
+<!-- ### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
 ### 🌃 My skype ID: live:.cid.fa825d42199a95b7
 ### 📶 Telegram ID: @jakehiram
-### 📧 Email: hiramjake59@gmail.com
+### 📧 Email: hiramjake59@gmail.com -->
 
 </div>
 
