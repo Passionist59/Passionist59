@@ -107,4 +107,4 @@
 
 <h3 align="left">GitHub Stats</h3>
 
-<p align="left"> <a href="https://github.com/passionist59"><img src="https://github-profile-trophy.vercel.app/?username=webstardev" alt="webstardev" /></a> </p>
+<p align="center"> <a href="https://github.com/passionist59"><img src="https://github-profile-trophy.vercel.app/?username=webstardev" alt="webstardev" /></a> </p>
