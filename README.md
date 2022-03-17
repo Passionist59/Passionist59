@@ -1,4 +1,4 @@
-<div><img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" alt="githubprofile" width='200px'></div>
+<div align='center'><img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" alt="githubprofile" width='200px'></div>
 
 <h1> Hello everyone!!!<br>Let's all do great and great coding</h1>
 <p>WELCOME TO MY GITHUB</p><br>
@@ -105,6 +105,6 @@
 
 </div>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center"> <a href="https://github.com/passionist59"><img src="https://github-profile-trophy.vercel.app/?username=webstardev" alt="webstardev" /></a> </p>
