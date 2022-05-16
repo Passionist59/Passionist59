@@ -79,7 +79,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
  
 ✓ Smart Contract, DeFi, in Ethereum, Solana, Avax, Wax, Algorand, Polygon,BSC, Polkadot<br>
-✓ Smart Contract (ERC20 + ERC21) and Audit<br>
+✓ Smart Contract (ERC20 + ERC721) and Audit<br>
 ✓ Cryptocurrency Pricing Website<br>
 ✓ Sytems Administration (DevOps, Docker, Apache, Nginx, Heroku)<br>
 ✓ Creating an exchange Trading platforms with 3rd part liquidity API, Margin trading etc. like binance.com, bybit.com, or Bitmex.com <br>
@@ -96,7 +96,7 @@
 ✓ IOT solutions using blockchain such as in Farming<br>
 ✓ Peer to peer platform<br>
 ✓ Wallet development (HOT /COLD/ETHER/P2P/ ETH WALLET)<br>
-✓ Frontend development<br>
+✓ Frontend development(React.js, Angular.js, Nextjs, Nuxtjs, Typescript etc.)<br>
   
 ### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
 ### 🌃 My skype ID: live:.cid.fa825d42199a95b7
