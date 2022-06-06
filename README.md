@@ -97,6 +97,8 @@
 ✓ Peer to peer platform<br>
 ✓ Wallet development (HOT /COLD/ETHER/P2P/ ETH WALLET)<br>
 ✓ Frontend development(React.js, Angular.js, Nextjs, Nuxtjs, Typescript etc.)<br>
+✓ Node.js
+✓ MySQL, MongoDB
   
 ### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
 ### 🌃 My skype ID: live:.cid.fa825d42199a95b7
