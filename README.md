@@ -101,7 +101,7 @@
 ✓ MySQL, MongoDB
   
 ### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
-### 🌃 My skype ID: live:.cid.fa825d42199a95b7
+### 🌃 My skype ID: live:.cid.bb04b44130c98e3f
 ### 📶 Telegram ID: @jakehiram
 ### 📧 Email: hiramjake59@gmail.com
 
