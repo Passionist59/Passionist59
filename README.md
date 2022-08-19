@@ -83,27 +83,22 @@
 ✓ Cryptocurrency Pricing Website<br>
 ✓ Sytems Administration (DevOps, Docker, Apache, Nginx, Heroku)<br>
 ✓ Creating an exchange Trading platforms with 3rd part liquidity API, Margin trading etc. like binance.com, bybit.com, or Bitmex.com <br>
-✓ ICO| STO| IEO- Developing from scratch + Marketing<br>
+✓ Smart contract for ICO, IDO, IEO, DAO, Vesting development<br>
 ✓ Crypto Arbitrage<br>
 ✓ Forking coin<br>
-✓ DApps development ; Solidity/Rust + web3.js/ethers.js<br>
-✓ Solidity, Rust, Golang, C++, Java, Python<br>
-✓ Integration with crypto wallets such as Metamask.<br>
+✓ DApps development ; Solidity/Rust + web3.js/ethers.js, Goland, C++, Python<br>
+✓ Integration with crypto wallets.<br>
 ✓ NFT marketplace, Defi/Dapp Development, DeFi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)<br>
 ✓ NFT Games<br>
-✓ NFTs (ERC-721, ERC-1155, Flow, BSC, Polygon, Rarible, Opensea, Nifty, etc)<br>
-✓ SQL and NoSQL (MySQL, MSSQL, PostgreSQL, InfluxDB, MongoDB), Redis<br>
-✓ IOT solutions using blockchain such as in Farming<br>
-✓ Peer to peer platform<br>
-✓ Wallet development (HOT /COLD/ETHER/P2P/ ETH WALLET)<br>
-✓ Frontend development(React.js, Angular.js, Nextjs, Nuxtjs, Typescript etc.)<br>
-✓ Node.js
-✓ MySQL, MongoDB
+✓ Frontend development(React.js, Angular.js, Vue.js, Nextjs, Nuxtjs, Typescript etc.)<br>
+✓ Backend development(C, C#, C++, PHP, Laravel, CI, Node.js, Python, Django, Flask)<br>
+✓ Database(MySQL, MongoDB, NoSQL, PostgreSQL, InfluxDB, SQLite, Redis<br>
   
 ### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
 ### 🌃 My skype ID: live:.cid.bb04b44130c98e3f
 ### 📶 Telegram ID: @jakehiram
 ### 📧 Email: hiramjake59@gmail.com
+### 📶 +1 618 475 6200
 
 </div>
 
