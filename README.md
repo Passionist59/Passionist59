@@ -93,6 +93,7 @@
 ✓ Frontend development(React.js, Angular.js, Vue.js, Nextjs, Nuxtjs, Typescript etc.)<br>
 ✓ Backend development(C, C#, C++, PHP, Laravel, CI, Node.js, Python, Django, Flask)<br>
 ✓ Database(MySQL, MongoDB, NoSQL, PostgreSQL, InfluxDB, SQLite, Redis<br>
+✓ Server management, AWS, Google cloud, CICD etc.
   
 ### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
 ### 🌃 My skype ID: live:.cid.bb04b44130c98e3f
