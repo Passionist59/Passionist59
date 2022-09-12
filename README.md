@@ -80,13 +80,9 @@
  
 ✓ Smart Contract, DeFi, in Ethereum, Solana, Avax, Wax, Algorand, Polygon,BSC, Polkadot<br>
 ✓ Smart Contract (ERC20 + ERC721) and Audit<br>
-✓ Cryptocurrency Pricing Website<br>
+✓ Smart contract for ICO, IDO, IEO, DAO, Vesting development<br>
 ✓ Sytems Administration (DevOps, Docker, Apache, Nginx, Heroku)<br>
 ✓ Creating an exchange Trading platforms with 3rd part liquidity API, Margin trading etc. like binance.com, bybit.com, or Bitmex.com <br>
-✓ Smart contract for ICO, IDO, IEO, DAO, Vesting development<br>
-✓ Crypto Arbitrage<br>
-✓ Forking coin<br>
-✓ DApps development ; Solidity/Rust + web3.js/ethers.js, Goland, C++, Python<br>
 ✓ Integration with crypto wallets.<br>
 ✓ NFT marketplace, Defi/Dapp Development, DeFi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)<br>
 ✓ NFT Games<br>
@@ -102,7 +98,3 @@
 ### 📶 +1 618 475 6200
 
 </div>
-
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center"> <a href="https://github.com/passionist59"><img src="https://github-profile-trophy.vercel.app/?username=webstardev" alt="webstardev" /></a> </p>
