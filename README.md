@@ -85,8 +85,8 @@
 ✓ NFT marketplace, Defi/Dapp Development, DeFi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)<br>
 ✓ NFT Games<br>
 ✓ Frontend development(React.js, Angular.js, Vue.js, Nextjs, Nuxtjs, Typescript etc.)<br>
-✓ Backend development(C, C#, C++, PHP, Laravel, CI, Node.js, Python, Django, Flask)<br>
-✓ Database(MySQL, MongoDB, NoSQL, PostgreSQL, InfluxDB, SQLite, Redis<br>
+✓ Backend development(C, C#, C++, PHP, Laravel, CI, Node.js, Python, Django, Flask and so on)<br>
+✓ Database(MySQL, MongoDB, NoSQL, PostgreSQL, InfluxDB, SQLite, Redis and so on)<br>
 ✓ Server management, AWS, Google cloud, CICD etc.
   
 ### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
