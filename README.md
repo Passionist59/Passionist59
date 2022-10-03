@@ -88,11 +88,5 @@
 ✓ Backend development(C, C#, C++, PHP, Laravel, CI, Node.js, Python, Django, Flask and so on)<br>
 ✓ Database(MySQL, MongoDB, NoSQL, PostgreSQL, InfluxDB, SQLite, Redis and so on)<br>
 ✓ Server management, AWS, Google cloud, CICD etc.
-  
-### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
-### 🌃 My skype ID: live:.cid.bb04b44130c98e3f
-### 📶 Telegram ID: @jakehiram
-### 📧 Email: hiramjake59@gmail.com
-### 📶 +1 618 475 6200
 
 </div>
