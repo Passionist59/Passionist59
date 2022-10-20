@@ -92,7 +92,7 @@
 </div>
 <br>
 ### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
-### 🌃 My skype ID: live:.cid.bb04b44130c98e3f
-### 📶 Telegram ID: @jakehiram
-### 📧 Email: hiramjake59@gmail.com
-### 📶 +1 618 475 6200![image](https://user-images.githubusercontent.com/96089294/196901204-2344f00f-c743-40d8-a2ba-88e2aca370b2.png)
+### 🌃 My skype ID: live:.cid.bb04b44130c98e3f<br>
+### 📶 Telegram ID: @jakehiram<br>
+### 📧 Email: hiramjake59@gmail.com<br>
+### 📶 +1 618 475 6200
