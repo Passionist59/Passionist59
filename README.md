@@ -90,9 +90,3 @@
 ✓ Server management, AWS, Google cloud, CICD etc.
 
 </div>
-<br>
-### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
-### 🌃 My skype ID: live:.cid.bb04b44130c98e3f<br>
-### 📶 Telegram ID: @jakehiram<br>
-### 📧 Email: hiramjake59@gmail.com<br>
-### 📶 +1 618 475 6200
