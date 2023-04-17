@@ -70,23 +70,3 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
    </tr>
   </table>
-  
-## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
-
-<div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
- 
-✓ Smart Contract, DeFi, in Ethereum, Solana, Avax, Wax, Algorand, Polygon,BSC, Polkadot<br>
-✓ Smart Contract (ERC20 + ERC721) and Audit<br>
-✓ Smart contract for ICO, IDO, IEO, DAO, Vesting development<br>
-✓ Sytems Administration (DevOps, Docker, Apache, Nginx, Heroku)<br>
-✓ Creating an exchange Trading platforms with 3rd part liquidity API, Margin trading etc. like binance.com, bybit.com, or Bitmex.com <br>
-✓ Integration with crypto wallets.<br>
-✓ NFT marketplace, Defi/Dapp Development, DeFi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)<br>
-✓ NFT Games<br>
-✓ Frontend development(React.js, Angular.js, Vue.js, Nextjs, Nuxtjs, Typescript etc.)<br>
-✓ Backend development(C, C#, C++, PHP, Laravel, CI, Node.js, Python, Django, Flask and so on)<br>
-✓ Database(MySQL, MongoDB, NoSQL, PostgreSQL, InfluxDB, SQLite, Redis and so on)<br>
-✓ Server management, AWS, Google cloud, CICD etc.
-
-</div>
